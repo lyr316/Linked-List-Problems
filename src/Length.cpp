@@ -5,7 +5,7 @@
  *      Author: real
  */
 
-#include <node.h>
+#include "node.h"
 
 /*
  Given a linked list head pointer, compute
